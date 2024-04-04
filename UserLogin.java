@@ -1,11 +1,5 @@
 import java.util.Scanner;
 
-class InvalidPasswordException extends Exception {
-    public InvalidPasswordException(String message) {
-        super(message);
-    }
-}
-
 public class UserLogin {
 
     public static final int MAX_TRIES = 3;
