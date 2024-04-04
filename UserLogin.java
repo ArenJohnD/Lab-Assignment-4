@@ -1,5 +1,3 @@
-import LabAss4.MaximumTriesExceededException;
-
 import java.util.Scanner;
 
 class InvalidPasswordException extends Exception {
